@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="weather_today">Bugün</string>
+    <string name="weather_tomorrow">Yarın</string>
+    <string name="weather_next_day">Diğer Gün</string>
+    <string name="city_name">Şehir Adı</string>
+    <string name="weather_instant">Anlık</string>
+</resources>
